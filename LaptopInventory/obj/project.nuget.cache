@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "J3ZxRqq1qtQ=",
@@ -25,4 +26,13 @@
   "expectedPackageFiles": [],
   "logs": []
 >>>>>>> ageng
+=======
+{
+  "version": 2,
+  "dgSpecHash": "SM+xAgpwlGg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> ellen
 }

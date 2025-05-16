@@ -9,6 +9,7 @@
 
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="xunit" Version="2.9.3" />
     <PackageReference Include="xunit.runner.visualstudio" Version="3.1.0">
@@ -28,6 +29,11 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
 >>>>>>> ageng
+=======
+    <None Update="users.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+>>>>>>> ellen
   </ItemGroup>
 
 </Project>

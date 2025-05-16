@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\",
   "Documents": [
     {
@@ -69,6 +70,40 @@
       "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> ageng
+=======
+  "WorkspaceRootPath": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\ellen\\documents\\konstruksi\\laptopinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D349FF-9034-4AB7-97CF-0C1BEBCFE60F}|..\\Testing\\Testing.csproj|c:\\users\\ellen\\documents\\konstruksi\\testing\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\ellen\\documents\\konstruksi\\laptopinventory\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\ellen\\documents\\konstruksi\\laptopinventory\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\ellen\\documents\\konstruksi\\laptopinventory\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\ellen\\documents\\konstruksi\\laptopinventory\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\ellen\\documents\\konstruksi\\laptopinventory\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\ellen\\documents\\konstruksi\\laptopinventory\\laptopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:laptopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> ellen
     }
   ],
   "DocumentGroupContainers": [
@@ -79,6 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 88,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
 =======
       "Orientation": 1,
@@ -88,6 +124,9 @@
           "DockedHeight": 754,
           "SelectedChildIndex": 2,
 >>>>>>> ageng
+=======
+          "SelectedChildIndex": 7,
+>>>>>>> ellen
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,6 +138,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "UnitTesting.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\UnitTesting\\UnitTesting.csproj",
@@ -108,11 +148,75 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-06T06:36:51.628Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\Testing\\Test.cs",
+              "RelativeDocumentMoniker": "..\\Testing\\Test.cs",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\Testing\\Test.cs",
+              "RelativeToolTip": "..\\Testing\\Test.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:22:48.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaptopInventory",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
+              "RelativeDocumentMoniker": "LaptopInventory.csproj",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
+              "RelativeToolTip": "LaptopInventory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T06:05:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\users.json",
+              "RelativeDocumentMoniker": "users.json",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\users.json",
+              "RelativeToolTip": "users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T06:11:40.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:06:05.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginState.cs",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\LoginState.cs",
+              "RelativeDocumentMoniker": "LoginState.cs",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\LoginState.cs",
+              "RelativeToolTip": "LoginState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:05:21.99Z",
+>>>>>>> ellen
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
 <<<<<<< HEAD
               "Title": "UnitTest.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\UnitTesting\\UnitTest.cs",
@@ -217,11 +321,20 @@
               "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarTest.cs",
               "RelativeToolTip": "..\\BarangKeluarTest\\BarangKeluarTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+>>>>>>> ellen
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T05:51:13.405Z",
               "EditorCaption": ""
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "BarangKeluarPerformanceTest.cs",
@@ -247,10 +360,15 @@
               "WhenOpened": "2025-05-16T05:50:38.207Z",
 >>>>>>> ageng
               "EditorCaption": ""
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+>>>>>>> ellen
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
               "Title": "IBarangKeluarService.cs",
@@ -278,11 +396,22 @@
               "ViewState": "AgIAACQAAAAAAAAAAAAvwDUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T05:50:15.677Z",
+=======
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\LoginService.cs",
+              "RelativeDocumentMoniker": "LoginService.cs",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\LoginService.cs",
+              "RelativeToolTip": "LoginService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAArwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:05:03.5Z",
+>>>>>>> ellen
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< HEAD
               "Title": "LanguagesManager.cs",
               "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\LanguagesManager.cs",
               "RelativeDocumentMoniker": "Services\\LanguagesManager.cs",
@@ -341,6 +470,17 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+=======
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\ELLEN\\Documents\\konstruksi\\LaptopInventory\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:04:29.005Z",
+              "EditorCaption": ""
+>>>>>>> ellen
             }
           ]
         }

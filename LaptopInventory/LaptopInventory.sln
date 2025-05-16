@@ -6,10 +6,14 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopInventory", "LaptopInventory.csproj", "{73A7E079-35F6-4655-8DAE-896E3EACD57E}"
 EndProject
 <<<<<<< HEAD
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "..\UnitTesting\UnitTesting.csproj", "{B137AF43-57E0-4BC4-A6AC-1D20B67AE08F}"
 =======
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarangKeluarTest", "..\BarangKeluarTest\BarangKeluarTest.csproj", "{9AAD5868-A628-4508-93F3-3D0E93F5F963}"
 >>>>>>> ageng
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "..\Testing\Testing.csproj", "{96D349FF-9034-4AB7-97CF-0C1BEBCFE60F}"
+>>>>>>> ellen
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,6 +26,7 @@ Global
 		{73A7E079-35F6-4655-8DAE-896E3EACD57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73A7E079-35F6-4655-8DAE-896E3EACD57E}.Release|Any CPU.Build.0 = Release|Any CPU
 <<<<<<< HEAD
+<<<<<<< HEAD
 		{B137AF43-57E0-4BC4-A6AC-1D20B67AE08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B137AF43-57E0-4BC4-A6AC-1D20B67AE08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B137AF43-57E0-4BC4-A6AC-1D20B67AE08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -32,6 +37,12 @@ Global
 		{9AAD5868-A628-4508-93F3-3D0E93F5F963}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AAD5868-A628-4508-93F3-3D0E93F5F963}.Release|Any CPU.Build.0 = Release|Any CPU
 >>>>>>> ageng
+=======
+		{96D349FF-9034-4AB7-97CF-0C1BEBCFE60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D349FF-9034-4AB7-97CF-0C1BEBCFE60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D349FF-9034-4AB7-97CF-0C1BEBCFE60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D349FF-9034-4AB7-97CF-0C1BEBCFE60F}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> ellen
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
