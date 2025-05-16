@@ -1,0 +1,16 @@
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.AssemblyInfoInputs.cache
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.AssemblyInfo.cs
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.csproj.CoreCompileInputs.cache
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.sourcelink.json
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.exe
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.deps.json
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.runtimeconfig.json
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.dll
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.pdb
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.dll
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\refint\LaptopInventory.dll
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.pdb
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.genruntimeconfig.cache
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\obj\Debug\net8.0\ref\LaptopInventory.dll
+C:\Users\ELLEN\Documents\konstruksi\LaptopInventory\bin\Debug\net8.0\users.json
