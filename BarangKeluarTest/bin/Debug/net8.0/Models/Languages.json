@@ -1,0 +1,38 @@
+{
+    "ID": {
+        "JudulAplikasi": "=== SISTEM PENCATATAN BARANG KELUAR ===",
+        "DaftarBarang": "Daftar Barang Tersedia:",
+        "KolomID": "ID",
+        "KolomNama": "Nama",
+        "KolomKategori": "Kategori",
+        "KolomStok": "Stok",
+        "InputID": "Masukkan ID Barang: ",
+        "InputJumlah": "Masukkan Jumlah: ",
+        "Sukses": "[SUKSES] {0} {1} berhasil dikeluarkan!",
+        "Error_IDKosong": "ID Barang tidak boleh kosong!",
+        "Error_JumlahInvalid": "Jumlah harus bilangan bulat positif!",
+        "Error_StokKurang": "[ERROR] Stok hanya {0}!",
+        "PerubahanStok": "Perubahan stok: {0} -> {1}",
+        "Error_BarangTidakDitemukan": "Barang dengan ID {0} tidak ditemukan!",
+        "KonfirmasiKeluar": "Keluar dari aplikasi? (y/n): ",
+        "PesanKeluar": "Terima kasih telah menggunakan sistem ini!"
+    },
+    "EN": {
+        "JudulAplikasi": "=== ITEM OUTGOING SYSTEM ===",
+        "DaftarBarang": "Available Items:",
+        "KolomID": "ID",
+        "KolomNama": "Name",
+        "KolomKategori": "Category",
+        "KolomStok": "Stock",
+        "InputID": "Enter Item ID: ",
+        "InputJumlah": "Enter Quantity: ",
+        "Sukses": "[SUCCESS] {0} {1} has been issued!",
+        "Error_IDKosong": "Item ID cannot be empty!",
+        "Error_JumlahInvalid": "Quantity must be positive integer!",
+        "Error_BarangTidakDitemukan": "Item with ID {0} not found!",
+        "Error_StokKurang": "[ERROR] Only {0} in stock!",
+        "PerubahanStok": "Stock changed: {0} -> {1}",
+        "KonfirmasiKeluar": "Exit application? (y/n): ",
+        "PesanKeluar": "Thank you for using this system!"
+    }
+}
