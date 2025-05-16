@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaptopInventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d3e44b5781df13ef0523b530b579dc1671f319")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaptopInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaptopInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

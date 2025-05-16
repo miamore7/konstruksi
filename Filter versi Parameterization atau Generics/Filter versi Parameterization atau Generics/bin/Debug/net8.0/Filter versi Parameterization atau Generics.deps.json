@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Filter versi Parameterization atau Generics/1.0.0": {
+        "runtime": {
+          "Filter versi Parameterization atau Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filter versi Parameterization atau Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

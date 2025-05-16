@@ -1,0 +1,5 @@
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter.Tests\TableDrivenTests\TableDrivenTests\obj\Debug\net8.0\TableDrivenTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter.Tests\TableDrivenTests\TableDrivenTests\obj\Debug\net8.0\TableDrivenTests.AssemblyInfoInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter.Tests\TableDrivenTests\TableDrivenTests\obj\Debug\net8.0\TableDrivenTests.AssemblyInfo.cs
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter.Tests\TableDrivenTests\TableDrivenTests\obj\Debug\net8.0\TableDrivenTests.csproj.CoreCompileInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter.Tests\TableDrivenTests\TableDrivenTests\obj\Debug\net8.0\TableDrivenTests.sourcelink.json

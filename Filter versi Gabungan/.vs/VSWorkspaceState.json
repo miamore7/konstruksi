@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Filter.Tests",
+    "\\Filter.Tests\\TableDrivenTests",
+    "\\Filter.Tests\\TableDrivenTests\\TableDrivenTests"
+  ],
+  "SelectedNode": "\\Filter.Tests\\TableDrivenTests\\TableDrivenTests\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

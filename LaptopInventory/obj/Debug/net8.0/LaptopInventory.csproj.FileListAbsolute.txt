@@ -1,0 +1,15 @@
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.exe
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.deps.json
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.runtimeconfig.json
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.AssemblyInfoInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.AssemblyInfo.cs
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.csproj.CoreCompileInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.sourcelink.json
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\refint\LaptopInventory.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.genruntimeconfig.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\LaptopInventory\obj\Debug\net8.0\ref\LaptopInventory.dll

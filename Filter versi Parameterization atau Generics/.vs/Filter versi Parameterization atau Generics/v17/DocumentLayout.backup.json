@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Konstruksi Perangkat Lunak\\konstruksi\\Filter versi Parameterization atau Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8FD7A0-8FD1-4E4C-8F94-45145F35379A}|Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics.csproj|d:\\konstruksi perangkat lunak\\konstruksi\\filter versi parameterization atau generics\\filter versi parameterization atau generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8FD7A0-8FD1-4E4C-8F94-45145F35379A}|Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics.csproj|solutionrelative:filter versi parameterization atau generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8FD7A0-8FD1-4E4C-8F94-45145F35379A}|Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics.csproj|d:\\konstruksi perangkat lunak\\konstruksi\\filter versi parameterization atau generics\\filter versi parameterization atau generics\\genericfiltersorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8FD7A0-8FD1-4E4C-8F94-45145F35379A}|Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics.csproj|solutionrelative:filter versi parameterization atau generics\\genericfiltersorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8FD7A0-8FD1-4E4C-8F94-45145F35379A}|Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics.csproj|d:\\konstruksi perangkat lunak\\konstruksi\\filter versi parameterization atau generics\\filter versi parameterization atau generics\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8FD7A0-8FD1-4E4C-8F94-45145F35379A}|Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics.csproj|solutionrelative:filter versi parameterization atau generics\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "D:\\Konstruksi Perangkat Lunak\\konstruksi\\Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics\\Barang.cs",
+              "RelativeDocumentMoniker": "Filter versi Parameterization atau Generics\\Barang.cs",
+              "ToolTip": "D:\\Konstruksi Perangkat Lunak\\konstruksi\\Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics\\Barang.cs",
+              "RelativeToolTip": "Filter versi Parameterization atau Generics\\Barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:41:32.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericFilterSorter.cs",
+              "DocumentMoniker": "D:\\Konstruksi Perangkat Lunak\\konstruksi\\Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics\\GenericFilterSorter.cs",
+              "RelativeDocumentMoniker": "Filter versi Parameterization atau Generics\\GenericFilterSorter.cs",
+              "ToolTip": "D:\\Konstruksi Perangkat Lunak\\konstruksi\\Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics\\GenericFilterSorter.cs",
+              "RelativeToolTip": "Filter versi Parameterization atau Generics\\GenericFilterSorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:39:06.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Konstruksi Perangkat Lunak\\konstruksi\\Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Filter versi Parameterization atau Generics\\Program.cs",
+              "ToolTip": "D:\\Konstruksi Perangkat Lunak\\konstruksi\\Filter versi Parameterization atau Generics\\Filter versi Parameterization atau Generics\\Program.cs",
+              "RelativeToolTip": "Filter versi Parameterization atau Generics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:37:29.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

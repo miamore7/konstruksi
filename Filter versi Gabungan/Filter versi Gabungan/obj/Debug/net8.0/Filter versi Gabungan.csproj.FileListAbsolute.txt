@@ -1,0 +1,15 @@
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\bin\Debug\net8.0\Filter versi Gabungan.exe
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\bin\Debug\net8.0\Filter versi Gabungan.deps.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\bin\Debug\net8.0\Filter versi Gabungan.runtimeconfig.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\bin\Debug\net8.0\Filter versi Gabungan.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\bin\Debug\net8.0\Filter versi Gabungan.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.AssemblyInfoInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.AssemblyInfo.cs
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.csproj.CoreCompileInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.sourcelink.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\refint\Filter versi Gabungan.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\Filter versi Gabungan.genruntimeconfig.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Gabungan\Filter versi Gabungan\obj\Debug\net8.0\ref\Filter versi Gabungan.dll

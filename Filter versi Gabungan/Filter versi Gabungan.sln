@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter versi Gabungan", "Filter versi Gabungan\Filter versi Gabungan.csproj", "{B9D10C52-B9C9-4228-85BB-22C60414955F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filter.Test", "Filter.Test\Filter.Test.csproj", "{97A9AD41-9294-4C87-9967-8C220EF8C6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D10C52-B9C9-4228-85BB-22C60414955F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D10C52-B9C9-4228-85BB-22C60414955F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D10C52-B9C9-4228-85BB-22C60414955F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D10C52-B9C9-4228-85BB-22C60414955F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A9AD41-9294-4C87-9967-8C220EF8C6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A9AD41-9294-4C87-9967-8C220EF8C6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A9AD41-9294-4C87-9967-8C220EF8C6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A9AD41-9294-4C87-9967-8C220EF8C6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2B8217-A6AB-4974-8092-9CD06D9583D5}
+	EndGlobalSection
+EndGlobal

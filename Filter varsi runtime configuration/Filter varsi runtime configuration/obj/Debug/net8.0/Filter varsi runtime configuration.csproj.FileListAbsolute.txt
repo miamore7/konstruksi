@@ -1,0 +1,15 @@
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\bin\Debug\net8.0\Filter varsi runtime configuration.exe
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\bin\Debug\net8.0\Filter varsi runtime configuration.deps.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\bin\Debug\net8.0\Filter varsi runtime configuration.runtimeconfig.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\bin\Debug\net8.0\Filter varsi runtime configuration.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\bin\Debug\net8.0\Filter varsi runtime configuration.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.AssemblyInfoInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.AssemblyInfo.cs
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.csproj.CoreCompileInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.sourcelink.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\refint\Filter varsi runtime configuration.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\Filter varsi runtime configuration.genruntimeconfig.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter varsi runtime configuration\Filter varsi runtime configuration\obj\Debug\net8.0\ref\Filter varsi runtime configuration.dll

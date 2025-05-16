@@ -1,0 +1,15 @@
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\bin\Debug\net8.0\Filter versi Parameterization atau Generics.exe
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\bin\Debug\net8.0\Filter versi Parameterization atau Generics.deps.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\bin\Debug\net8.0\Filter versi Parameterization atau Generics.runtimeconfig.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\bin\Debug\net8.0\Filter versi Parameterization atau Generics.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\bin\Debug\net8.0\Filter versi Parameterization atau Generics.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.AssemblyInfoInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.AssemblyInfo.cs
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.csproj.CoreCompileInputs.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.sourcelink.json
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\refint\Filter versi Parameterization atau Generics.dll
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.pdb
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\Filter versi Parameterization atau Generics.genruntimeconfig.cache
+D:\Konstruksi Perangkat Lunak\konstruksi\Filter versi Parameterization atau Generics\Filter versi Parameterization atau Generics\obj\Debug\net8.0\ref\Filter versi Parameterization atau Generics.dll
