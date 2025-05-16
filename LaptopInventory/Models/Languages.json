@@ -11,9 +11,9 @@
         "Sukses": "[SUKSES] {0} {1} berhasil dikeluarkan!",
         "Error_IDKosong": "ID Barang tidak boleh kosong!",
         "Error_JumlahInvalid": "Jumlah harus bilangan bulat positif!",
+        "Error_BarangTidakDitemukan": "Barang dengan ID {0} tidak ditemukan!",
         "Error_StokKurang": "[ERROR] Stok hanya {0}!",
         "PerubahanStok": "Perubahan stok: {0} -> {1}",
-        "Error_BarangTidakDitemukan": "Barang dengan ID {0} tidak ditemukan!",
         "KonfirmasiKeluar": "Keluar dari aplikasi? (y/n): ",
         "PesanKeluar": "Terima kasih telah menggunakan sistem ini!"
     },
