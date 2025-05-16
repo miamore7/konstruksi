@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarangKeluarTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d3e44b5781df13ef0523b530b579dc1671f319")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b57b5848779cf5d371fc1d3b39b56545ce611b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarangKeluarTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarangKeluarTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
