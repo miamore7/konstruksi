@@ -1,20 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B137AF43-57E0-4BC4-A6AC-1D20B67AE08F}|..\\UnitTesting\\UnitTesting.csproj|c:\\users\\asus\\documents\\semester 6\\konstruksi perangkat lunak\\uts\\konstruksi\\unittesting\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\asus\\documents\\semester 6\\konstruksi perangkat lunak\\uts\\konstruksi\\laptopinventory\\warehousestatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:warehousestatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\asus\\documents\\semester 6\\konstruksi perangkat lunak\\uts\\konstruksi\\laptopinventory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B137AF43-57E0-4BC4-A6AC-1D20B67AE08F}|..\\UnitTesting\\UnitTesting.csproj|c:\\users\\asus\\documents\\semester 6\\konstruksi perangkat lunak\\uts\\konstruksi\\unittesting\\unittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\asus\\documents\\semester 6\\konstruksi perangkat lunak\\uts\\konstruksi\\laptopinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\asus\\documents\\semester 6\\konstruksi perangkat lunak\\uts\\konstruksi\\laptopinventory\\laptopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:laptopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|c:\\users\\asus\\documents\\semester 6\\konstruksi perangkat lunak\\uts\\konstruksi\\laptopinventory\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 88,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +48,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\UnitTesting\\UnitTesting.csproj",
+              "RelativeDocumentMoniker": "..\\UnitTesting\\UnitTesting.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\UnitTesting\\UnitTesting.csproj",
+              "RelativeToolTip": "..\\UnitTesting\\UnitTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T06:36:51.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\UnitTesting\\UnitTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTesting\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\UnitTesting\\UnitTest.cs",
+              "RelativeToolTip": "..\\UnitTesting\\UnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:32:25.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LaptopInventory.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
+              "RelativeDocumentMoniker": "LaptopInventory.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
+              "RelativeToolTip": "LaptopInventory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T15:21:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\WarehouseStateMachine.cs",
+              "RelativeDocumentMoniker": "WarehouseStateMachine.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\WarehouseStateMachine.cs",
+              "RelativeToolTip": "WarehouseStateMachine.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:22:36.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "InventoryManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\InventoryManager.cs",
+              "RelativeToolTip": "InventoryManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:22:02.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:21:33.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\Semester 6\\Konstruksi Perangkat Lunak\\UTS\\konstruksi\\LaptopInventory\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwE4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T15:01:51.978Z",
               "EditorCaption": ""
