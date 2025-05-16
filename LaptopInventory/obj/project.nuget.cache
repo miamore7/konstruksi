@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "J3ZxRqq1qtQ=",
@@ -15,4 +16,13 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.0\\xunit.runner.visualstudio.3.1.0.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "9XWFmHqSqDs=",
+  "success": true,
+  "projectFilePath": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> ageng
 }

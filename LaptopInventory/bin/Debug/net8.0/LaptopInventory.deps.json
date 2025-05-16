@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v8.0",
@@ -149,4 +150,28 @@
       "hashPath": "xunit.runner.visualstudio.3.1.0.nupkg.sha512"
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LaptopInventory/1.0.0": {
+        "runtime": {
+          "LaptopInventory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaptopInventory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> ageng
 }

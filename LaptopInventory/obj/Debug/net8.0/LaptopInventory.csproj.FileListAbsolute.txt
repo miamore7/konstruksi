@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\ASUS\Documents\Semester 6\Konstruksi Perangkat Lunak\UTS\konstruksi\LaptopInventory\bin\Debug\net8.0\xunit.abstractions.dll
 C:\Users\ASUS\Documents\Semester 6\Konstruksi Perangkat Lunak\UTS\konstruksi\LaptopInventory\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
 C:\Users\ASUS\Documents\Semester 6\Konstruksi Perangkat Lunak\UTS\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.exe
@@ -21,3 +22,22 @@ C:\Users\ASUS\Documents\Semester 6\Konstruksi Perangkat Lunak\UTS\konstruksi\Lap
 C:\Users\ASUS\Documents\Semester 6\Konstruksi Perangkat Lunak\UTS\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.genruntimeconfig.cache
 C:\Users\ASUS\Documents\Semester 6\Konstruksi Perangkat Lunak\UTS\konstruksi\LaptopInventory\obj\Debug\net8.0\ref\LaptopInventory.dll
 C:\Users\ASUS\Documents\Semester 6\Konstruksi Perangkat Lunak\UTS\konstruksi\LaptopInventory\bin\Debug\net8.0\Newtonsoft.Json.dll
+=======
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.AssemblyInfoInputs.cache
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.AssemblyInfo.cs
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.sourcelink.json
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.exe
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.deps.json
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.runtimeconfig.json
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.dll
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\bin\Debug\net8.0\LaptopInventory.pdb
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.dll
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\refint\LaptopInventory.dll
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.pdb
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\LaptopInventory.genruntimeconfig.cache
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\obj\Debug\net8.0\ref\LaptopInventory.dll
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\bin\Debug\net8.0\Models\BarangKeluarConfig.json
+E:\Kuliah\Semester6\KONSTRUKSI-PERANGKAT-LUNAK\konstruksi\LaptopInventory\bin\Debug\net8.0\Models\Languages.json
+>>>>>>> ageng
