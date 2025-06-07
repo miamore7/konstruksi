@@ -3,45 +3,41 @@
   "WorkspaceRootPath": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AAD5868-A628-4508-93F3-3D0E93F5F963}|..\\BarangKeluarTest\\BarangKeluarTest.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\barangkeluartest\\barangkeluartest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\services\\languagesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:services\\languagesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\models\\languages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:models\\languages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\models\\barangkeluarconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:models\\barangkeluarconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AAD5868-A628-4508-93F3-3D0E93F5F963}|..\\BarangKeluarTest\\BarangKeluarTest.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\barangkeluartest\\languagemanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\services\\barangkeluarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:services\\barangkeluarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\services\\ibarangkeluarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:services\\ibarangkeluarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\laptopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:laptopinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\services\\barangkeluarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:services\\barangkeluarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AAD5868-A628-4508-93F3-3D0E93F5F963}|..\\BarangKeluarTest\\BarangKeluarTest.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\barangkeluartest\\barangkeluartest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\models\\barangkeluarconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:models\\barangkeluarconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9AAD5868-A628-4508-93F3-3D0E93F5F963}|..\\BarangKeluarTest\\BarangKeluarTest.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\barangkeluartest\\barangkeluarperformancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9AAD5868-A628-4508-93F3-3D0E93F5F963}|..\\BarangKeluarTest\\BarangKeluarTest.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\barangkeluartest\\languagemanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\models\\languages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:models\\languages.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:models\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|e:\\kuliah\\semester6\\konstruksi-perangkat-lunak\\konstruksi\\laptopinventory\\services\\languagesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A7E079-35F6-4655-8DAE-896E3EACD57E}|LaptopInventory.csproj|solutionrelative:services\\languagesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,139 +58,135 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Languages.json",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Languages.json",
-              "RelativeDocumentMoniker": "Models\\Languages.json",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Languages.json",
-              "RelativeToolTip": "Models\\Languages.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T05:52:42.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LanguageManagerTest.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\LanguageManagerTest.cs",
-              "RelativeDocumentMoniker": "..\\BarangKeluarTest\\LanguageManagerTest.cs",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\LanguageManagerTest.cs",
-              "RelativeToolTip": "..\\BarangKeluarTest\\LanguageManagerTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:51:16.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LaptopInventory.csproj",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
-              "RelativeDocumentMoniker": "LaptopInventory.csproj",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\LaptopInventory.csproj",
-              "RelativeToolTip": "LaptopInventory.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-16T05:51:15.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BarangKeluarTest.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarTest.cs",
-              "RelativeDocumentMoniker": "..\\BarangKeluarTest\\BarangKeluarTest.cs",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarTest.cs",
-              "RelativeToolTip": "..\\BarangKeluarTest\\BarangKeluarTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:51:13.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BarangKeluarPerformanceTest.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
-              "RelativeDocumentMoniker": "..\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
-              "RelativeToolTip": "..\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:51:11.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BarangKeluarManager.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\BarangKeluarManager.cs",
-              "RelativeDocumentMoniker": "Services\\BarangKeluarManager.cs",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\BarangKeluarManager.cs",
-              "RelativeToolTip": "Services\\BarangKeluarManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:50:38.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "IBarangKeluarService.cs",
               "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\IBarangKeluarService.cs",
               "RelativeDocumentMoniker": "Services\\IBarangKeluarService.cs",
               "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\IBarangKeluarService.cs",
               "RelativeToolTip": "Services\\IBarangKeluarService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:50:30.823Z"
+              "WhenOpened": "2025-05-16T07:44:28.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BarangKeluarManager.cs",
+              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\BarangKeluarManager.cs",
+              "RelativeDocumentMoniker": "Services\\BarangKeluarManager.cs",
+              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\BarangKeluarManager.cs",
+              "RelativeToolTip": "Services\\BarangKeluarManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:44:22.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Languages.json",
+              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Languages.json",
+              "RelativeDocumentMoniker": "Models\\Languages.json",
+              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Languages.json",
+              "RelativeToolTip": "Models\\Languages.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T07:37:03.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BarangKeluarConfig.json",
+              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\BarangKeluarConfig.json",
+              "RelativeDocumentMoniker": "Models\\BarangKeluarConfig.json",
+              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\BarangKeluarConfig.json",
+              "RelativeToolTip": "Models\\BarangKeluarConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T07:37:03.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Barang.cs",
+              "RelativeDocumentMoniker": "Models\\Barang.cs",
+              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Barang.cs",
+              "RelativeToolTip": "Models\\Barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T07:46:23.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanguageManagerTest.cs",
+              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\LanguageManagerTest.cs",
+              "RelativeDocumentMoniker": "..\\BarangKeluarTest\\LanguageManagerTest.cs",
+              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\LanguageManagerTest.cs",
+              "RelativeToolTip": "..\\BarangKeluarTest\\LanguageManagerTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:10:51.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BarangKeluarTest.cs",
+              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarTest.cs",
+              "RelativeDocumentMoniker": "..\\BarangKeluarTest\\BarangKeluarTest.cs",
+              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarTest.cs",
+              "RelativeToolTip": "..\\BarangKeluarTest\\BarangKeluarTest.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:12:12.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BarangKeluarPerformanceTest.cs",
+              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
+              "RelativeDocumentMoniker": "..\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
+              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
+              "RelativeToolTip": "..\\BarangKeluarTest\\BarangKeluarPerformanceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:12:44.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAvwDUAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T05:50:15.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "LanguagesManager.cs",
               "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\LanguagesManager.cs",
               "RelativeDocumentMoniker": "Services\\LanguagesManager.cs",
               "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Services\\LanguagesManager.cs",
               "RelativeToolTip": "Services\\LanguagesManager.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:50:13.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BarangKeluarConfig.json",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\BarangKeluarConfig.json",
-              "RelativeDocumentMoniker": "Models\\BarangKeluarConfig.json",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\BarangKeluarConfig.json",
-              "RelativeToolTip": "Models\\BarangKeluarConfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T05:50:09.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Barang.cs",
-              "DocumentMoniker": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Barang.cs",
-              "RelativeDocumentMoniker": "Models\\Barang.cs",
-              "ToolTip": "E:\\Kuliah\\Semester6\\KONSTRUKSI-PERANGKAT-LUNAK\\konstruksi\\LaptopInventory\\Models\\Barang.cs",
-              "RelativeToolTip": "Models\\Barang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:50:10.65Z"
+              "WhenOpened": "2025-05-16T08:11:43.349Z"
             }
           ]
         },
